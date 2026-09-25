@@ -1,2 +1,3 @@
 # Python-codes
-Just my repo for my python learning shi
+A repo for my python learing
+no lookie pls
