@@ -1,0 +1,133 @@
+30-DAY PYTHON PLAN
+
+WEEK 1
+
+Day 1: Variables and Data Types
+- Variables, data types, type conversion
+- input() and print()
+- Practice: calculator
+
+Day 2: Operators and Conditions
+- Arithmetic, comparison, and logical operators
+- if / elif / else
+- Practice: grade calculator
+
+Day 3: Loops
+- for, while, range()
+- break and continue
+- Practice: guessing game
+
+Day 4: Functions
+- Creating functions
+- Parameters and return values
+- Scope
+- Practice: unit converter
+
+Day 5: Lists and Tuples
+- Indexing and slicing
+- List/tuple methods
+- Practice: to-do list
+
+Day 6: Dictionaries and Sets
+- Creating and updating
+- Loops and membership
+- Practice: student marks database
+
+Day 7: Review
+- 25-40 practice questions
+- Review weak areas
+
+WEEK 2
+
+Day 8: Strings and Formatting
+- String methods and formatting
+- Practice: password checker
+
+Day 9: Exceptions
+- try / except / finally
+- Practice: safe calculator
+
+Day 10: Modules
+- Importing modules
+- math, random, datetime
+- Practice: dice roller
+
+Day 11: File Handling
+- Read, write, append
+- Practice: notes app
+
+Day 12: List Comprehensions and Nested Loops
+- List comprehensions
+- Nested loops
+- Practice: 20 coding exercises
+
+Day 13: Functions Revision and Recursion
+- Revise functions
+- Basic recursion
+
+Day 14: Mini Mock
+- 40-50 questions
+
+WEEK 3
+
+Day 15: Classes and Objects
+- Classes, objects, constructors
+- Practice: student class
+
+Day 16: Methods and Attributes
+
+Day 17: Review Week 1
+- Review everything from Week 1
+
+Day 18: Review Week 2
+- Review everything from Week 2
+
+Day 19: Practice
+- 50 practice questions
+
+Day 20: Larger Project
+- Quiz game, expense tracker, or contact book
+
+Day 21: Full Mock
+- Aim for 70%+
+
+WEEK 4
+
+Day 22: Review Mistakes
+- Review mistakes from previous work
+
+Day 23: Practice
+- 40 practice questions
+
+Day 24: Modules, Exceptions, and Files
+- Review these topics
+
+Day 25: Timed Mock
+
+Day 26: Review Weak Topics
+
+Day 27: Timed Mock
+- Aim for 80%
+
+Day 28: Final Python Project
+- Build a final project
+
+Day 29: Light Revision
+- Light review and practice
+
+Day 30: Final Mock
+- Complete the final mock
+
+DAILY ROUTINE
+
+- 20 min: Learn
+- 30 min: Code
+- 20 min: Challenges
+- 10-20 min: Review
+
+MILESTONES
+
+- Complete the daily topics and practice
+- Track weak areas and improve them
+- Build projects as you progress
+- Complete the final mock at the end of Day 30
