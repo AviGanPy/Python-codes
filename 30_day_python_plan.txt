@@ -2,84 +2,84 @@
 
 WEEK 1
 
-Day 1: Variables and Data Types
+Day 1: Variables and Data Types (Done)
 - Variables, data types, type conversion
 - input() and print()
 - Practice: calculator
 
-Day 2: Operators and Conditions
+Day 2: Operators and Conditions (Done)
 - Arithmetic, comparison, and logical operators
 - if / elif / else
 - Practice: grade calculator
 
-Day 3: Loops
+Day 3: Loops (Done)
 - for, while, range()
 - break and continue
 - Practice: guessing game
 
-Day 4: Functions
+Day 4: Functions (Done)
 - Creating functions
 - Parameters and return values
 - Scope
 - Practice: unit converter
 
-Day 5: Lists and Tuples
+Day 5: Lists and Tuples (Done)
 - Indexing and slicing
 - List/tuple methods
 - Practice: to-do list
 
-Day 6: Dictionaries and Sets
+Day 6: Dictionaries and Sets (Done)
 - Creating and updating
 - Loops and membership
 - Practice: student marks database
 
-Day 7: Review
+Day 7: Review (Done)
 - 25-40 practice questions
 - Review weak areas
 
 WEEK 2
 
-Day 8: Strings and Formatting
+Day 8: Strings and Formatting (Done)
 - String methods and formatting
 - Practice: password checker
 
-Day 9: Exceptions
+Day 9: Exceptions (Done)
 - try / except / finally
 - Practice: safe calculator
 
-Day 10: Modules
+Day 10: Modules (Done)
 - Importing modules
 - math, random, datetime
 - Practice: dice roller
 
-Day 11: File Handling
+Day 11: File Handling (Done)
 - Read, write, append
 - Practice: notes app
 
-Day 12: List Comprehensions and Nested Loops
+Day 12: List Comprehensions and Nested Loops (Done)
 - List comprehensions
 - Nested loops
 - Practice: 20 coding exercises
 
-Day 13: Functions Revision and Recursion
+Day 13: Functions Revision and Recursion (Done)
 - Revise functions
 - Basic recursion
 
-Day 14: Mini Mock
+Day 14: Mini Mock  (Done)
 - 40-50 questions
 
 WEEK 3
 
-Day 15: Classes and Objects
+Day 15: Classes and Objects (Done)
 - Classes, objects, constructors
 - Practice: student class
 
-Day 16: Methods and Attributes
+Day 16: Methods and Attributes (Done)
 
-Day 17: Review Week 1
+Day 17: Review Week 1 (Done)
 - Review everything from Week 1
 
-Day 18: Review Week 2
+Day 18: Review Week 2 (Done)
 - Review everything from Week 2
 
 Day 19: Practice
